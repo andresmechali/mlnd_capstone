@@ -18,6 +18,9 @@ The necessary datasets for this project can be found in the webpage of the Kaggl
 the following: https://www.kaggle.com/c/quora-question-pairs/data under the names _train.csv.zip_ and 
 _test.csv.zip_. Both of them should be put in a folder called _data_
 
+## Code
+All the necessary Python code used for this project can be found in the file named _MLND-Capstone.ipynb_.
+
 ## Software requirements
 The following software is required to be installed in order to run the code:
 * Python 3.5 or higher
